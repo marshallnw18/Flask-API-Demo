@@ -4,4 +4,4 @@
 4. Requirements and "requirements.txt" installation with pip 
 5. Explanation of test.py and how to run it along with the Flask app 
 
-Finish from 'Updating Data' section of the Tech With Tim Video
+TODO: Finish Updating Data with PATCH request
